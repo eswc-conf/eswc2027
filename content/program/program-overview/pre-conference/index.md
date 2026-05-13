@@ -1,4 +1,6 @@
 ---
-title: "Pre-Conference Program: ESWC 2026"
-show_schedule: true
+title: "Pre-Conference Program: ESWC 2027"
+show_schedule: false
 ---
+
+*To be announced.*

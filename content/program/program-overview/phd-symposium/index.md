@@ -1,18 +1,7 @@
 ---
-title: "PhD Symposium: ESWC 2026"
+title: "PhD Symposium: ESWC 2027"
 layout: "phd-program"
-show_schedule: true
+show_schedule: false
 ---
 
-## Mentors 
-* Annette ten Teije
-* Olaf Hartig
-* Victor de Boer
-* Enrique Iglesias
-* Michel Dumontier
-* Sabrina Kirrane 
-* Maria-Esther Vidal
-* Marieke van Erp
-* Sabrina Kirrane 
-* Disha Purohit
-* Yash Chudasama 
+*To be announced.*

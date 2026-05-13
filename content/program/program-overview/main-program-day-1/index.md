@@ -1,7 +1,7 @@
 ---
-title: "Main Conference Day 1 (May 12th)"
+title: "Main Conference Day 1 (May 25th)"
 layout: "main-program-day-1"
-show_schedule: true
+show_schedule: false
 ---
 
-
+*To be announced.*

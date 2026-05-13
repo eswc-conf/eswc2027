@@ -1,5 +1,5 @@
 ---
-title: "Program Overview: ESWC 2026"
+title: "Program Overview: ESWC 2027"
 show_schedule: false
 ---
 
