@@ -1,5 +1,5 @@
 ---
-title: "Program Committee: ESWC 2026"
+title: "Program Committee: ESWC 2027"
 aliases:
   - /program-committee
 ---

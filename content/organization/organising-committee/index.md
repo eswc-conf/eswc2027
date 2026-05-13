@@ -5,81 +5,15 @@ aliases:
 ---
 
 ### General Chair
-{{< committee img="images/people/acosta.jpg" name="Maribel Acosta" affiliation="Technical University of Munich" country="Germany" >}}
+{{< committee img="images/people/troncy.jpg" name="Raphaël Troncy" affiliation="EURECOM" country="France" >}}
 
-### Research Track Chairs 
-{{< committee img="images/people/von-erp.jpeg" name="Marieke van Erp" affiliation="KNAW Humanities Cluster" country="The Netherlands" >}}
-{{< committee img="images/people/rudolph.png" name="Sebastian Rudolph" affiliation="TU Dresden, ScaDS.AI" country="Germany" >}}
-Contact: [eswc2026-research@easychair.org](mailto:eswc2026-research@easychair.org)
+Contact : raphael.troncy@eurecom.fr
 
-### Resources Track Chairs
-{{< committee img="images/people/hartig.jpg" name="Olaf Hartig" affiliation="Linköping University" country="Sweden" >}}
-{{< committee img="images/people/spahiu.jpeg" name="Blerina Spahiu" affiliation="University of Milano - Bicocca" country="Italy" >}}
-Contact: [eswc2026-resources@easychair.org](mailto:eswc2026-resources@easychair.org)
+### Local Organizer
+{{< committee img="images/people/papadopoulos.jpg" name="George Angelos Papadopoulos" affiliation="University of Cyprus" country="Cyprus" >}}
 
-### In-Use Track Chairs
-{{< committee img="images/people/rula.jpg" name="Anisa Rula" affiliation="University of Brescia" country="Italy" >}}
-{{< committee img="images/people/garijo.png" name="Daniel Garijo" affiliation="Universidad Politécnica de Madrid" country="Spain" >}}
-Contact: [eswc2026-inuse@easychair.org](mailto:eswc2026-inuse@easychair.org)
+Contact: papadopoulos.george@ucy.ac.cy
 
-### PhD Symposium Chairs
-{{< committee img="images/people/vidal.jpg" name="Maria-Esther Vidal" affiliation="Leibniz University of Hannover, TIB" country="Germany" >}}
-{{< committee img="images/people/de-boer.jpg" name="Victor de Boer" affiliation="Vrije Universiteit Amsterdam" country="The Netherlands" >}}
-Contact: [eswc2026-phd@easychair.org](mailto:eswc2026-phd@easychair.org)
+---
 
-
-### Poster and Demo Chairs
-{{< committee img="images/people/lisena.jpeg" name="Pasquale Lisena" affiliation="EURECOM" country="France" >}}
-{{< committee img="images/people/sabou.png" name="Marta Sabou" affiliation="WU Wien" country="Austria" >}}
-Contact: [eswc2026-pd@easychair.org](mailto:eswc2026-pd@easychair.org) 
-
-### Workshops & Tutorials Chairs
-{{< committee img="images/people/d-amato.jpg" name="Claudia D'Amato" affiliation="University of Bari" country="Italy" >}}
-{{< committee img="images/people/neumaier.jpeg" name="Sebastian Neumaier" affiliation="St. Pölten University of Applied Sciences" country="Austria" >}}
-Contact: [eswc2026-wt@easychair.org](mailto:eswc2026-wt@easychair.org)
-
-
-### Industry Track Chairs 
-{{< committee img="images/people/heling.png" name="Lars Heling" affiliation="SAP" country="Germany" >}}
-{{< committee img="images/people/schmid.png" name="Stefan Schmid" affiliation="Bosch Research" country="Germany" >}}
-Contact: [eswc2026-industry@easychair.org](mailto:eswc2026-industry@easychair.org)
-
-
-### Project Networking Chairs
-{{< committee img="images/people/esteves.png" name="Beatriz Esteves" affiliation="Ghent University - IMEC" country="Belgium" >}}
-{{< committee img="images/people/presutti.jpg" name="Valentina Presutti" affiliation="University of Bologna" country="Italy" >}}
-Contact: [eswc2026-networking@easychair.org](mailto:eswc2026-networking@easychair.org)
-
-
-### Student Mentoring Chair
-{{< committee img="images/people/colpaert.jpg" name="Pieter Colpaert" affiliation="Ghent University - IMEC" country="Belgium" >}}
-
-
-### Sponsor Chairs
-{{< committee img="images/people/merono.jpeg" name="Albert Meroño Peñuela" affiliation="King's College London" country="UK" >}}
-{{< committee img="images/people/domingue.jpg" name="John Domingue" affiliation="KMi, The Open University" country="UK" >}}
-
-<!-- ### Project Networking Chairs -->
-
-### Program Coordinator
-{{< committee img="images/people/poveda.jpg" name="María Poveda-Villalón" affiliation="Universidad Politécnica de Madrid" country="Spain" >}}
-
-### Metadata Chairs
-{{< committee img="images/people/ilkou.jpg" name="Eleni Ilkou" affiliation="TIB" country="Germany" >}}
-{{< committee img="images/people/pellegrino.jpeg" name="Maria Angela Pellegrino" affiliation="University of Salerno" country="Italy" >}}
-
-### Web & Publicity Chairs
-{{< committee img="images/people/tietz.png" name="Tabea Tietz " affiliation="FIZ, Karlsruhe Institute of Technology" country="Germany" >}}
-{{< committee img="images/people/monnin.jpg" name="Pierre Monnin" affiliation="Université Côte d'Azur, Inria, CNRS, I3S" country="France" >}}
-{{< committee img="images/people/garcia.jpeg" name="Ignacio García" affiliation="Technical University of Munich" country="Germany" >}}
-
-### Proceedings Chair
-{{< committee img="images/people/osborne.png" name="Francesco Osborne" affiliation="KMi, The Open University" country="UK" >}}
-
-### Local Chair
-{{< committee img="images/people/pitea.png" name="Marija Komatar Pitea" affiliation="Pitea d.o.o." country="SVN" >}}
-{{< committee img="images/people/grobelnik.png" name="Marko Grobelnik" affiliation="Jozef Stefan Institute" country="SVN" >}}
-
-
-### Acknowledgments 
-- **ESWC Logo:** Tim Schwabe (TUM), Maribel Acosta (TUM)
+*More committee members to be announced.*
