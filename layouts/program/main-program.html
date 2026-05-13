@@ -1,0 +1,24 @@
+{{ define "main" }}
+<main>
+    <h1 id="title">{{ .Title }}</h1>
+    <div>
+        <article id="content">
+            {{ .Content }}
+        </article>
+    </div>
+    {{ if .Params.show_schedule }}
+    <section>
+        {{ $days := where site.Data.schedule_main.days "day" .Params.conference_day }}
+        {{ range $days }}
+            {{ partial "schedule-table-main.html" . }}
+        {{ end }}
+    </section>
+    {{ end }}
+</main>
+{{ end }}
+
+{{ define "navbar" }}
+{{ partial "navbar.html" (dict
+"current" "program"
+)}}
+{{ end }}

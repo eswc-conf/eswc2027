@@ -1,0 +1,201 @@
+<nav>
+    <ul id="navbar" data-current="{{ .current }}">
+        <li class="nav-item" data-id="home">
+            <a class="nav-item--link" href="">ESWC 2026</a>
+            <ul class="nav-submenu">
+                <li class="nav-submenu-item">
+                    <a href="history" class="nav-submenu-item--link">
+                        History
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="conference-metadata" class="nav-submenu-item--link">
+                        Conference Metadata
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <li class="nav-item {{ if eq .current "calls" }} nav-item--active {{ end }}" data-id="calls">
+            <a class="nav-item--link" href="calls" >Calls</a>
+            <ul class="nav-submenu">
+                <li class="nav-submenu-item">
+                    <a href="calls/contributions-eswc" class="nav-submenu-item--link">
+                        Call for Contributions: ESWC 2026
+                    </a>
+                </li>
+
+                <li class="nav-submenu-item">
+                    <a href="calls/iswc" class="nav-submenu-item--link">
+                        ISWC 2025 Resubmissions
+                        <span class="news-box__badge" aria-hidden="true">NEW</span><span class="sr-only"> (new)</span>
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="calls/papers-research-track" class="nav-submenu-item--link">
+                        Call for Papers: Research Track
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="calls/papers-resource-track" class="nav-submenu-item--link">
+                        Call for Papers: Resources Track
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="calls/papers-in-use-track" class="nav-submenu-item--link">
+                        Call for Papers: In-Use Track
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="calls/workshops" class="nav-submenu-item--link">
+                        Call for Workshops
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="calls/tutorials" class="nav-submenu-item--link">
+                        Call for Tutorials
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="calls/phd-symposium/" class="nav-submenu-item--link">
+                        Call for Ph.D. Symposium
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="calls/poster-demo/" class="nav-submenu-item--link">
+                        Call for Posters and Demos
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="calls/industry-track/" class="nav-submenu-item--link">
+                        Call for Papers: Industry Track
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="calls/project-networking/" class="nav-submenu-item--link">
+                        Call for Papers: Project Networking Track
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <li class="nav-item" data-id="program">
+            <a class="nav-item--link nav-item-has-submenu" href="program">Program</a>
+            <ul class="nav-submenu">
+                <li class="nav-submenu-item">
+                    <a href="program/keynote-speakers/" class="nav-submenu-item--link">
+                        Keynote Speakers
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/program-overview/" class="nav-submenu-item--link">
+                        Program Overview </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/program-overview/pre-conference/" class="nav-submenu-item--link" style="padding-left: 2rem;">
+                        Pre-Conference Program </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/program-overview/main-program-day-1/" class="nav-submenu-item--link" style="padding-left: 2rem;">
+                        Main Conference Day 1 </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/program-overview/main-program-day-2/" class="nav-submenu-item--link" style="padding-left: 2rem;">
+                        Main Conference Day 2 </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/program-overview/main-program-day-3/" class="nav-submenu-item--link" style="padding-left: 2rem;">
+                        Main Conference Day 3 </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/program-overview/phd-symposium/" class="nav-submenu-item--link" style="padding-left: 2rem;">
+                        PhD Symposium </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/accepted-papers/" class="nav-submenu-item--link">
+                        Accepted Papers
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/accepted-papers/main-tracks" class="nav-submenu-item--link" style="padding-left: 2rem;">
+                        Research, Resource, and In-Use Papers </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/accepted-papers/poster-demo" class="nav-submenu-item--link" style="padding-left: 2rem;">
+                        Poster and Demo Papers </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/accepted-papers/phd-symposium" class="nav-submenu-item--link" style="padding-left: 2rem;">
+                        PhD Symposium </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/accepted-papers/industry" class="nav-submenu-item--link" style="padding-left: 2rem;">
+                        Industry </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/accepted-papers/project-networking" class="nav-submenu-item--link" style="padding-left: 2rem;">
+                        Project Networking </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="program/workshops-tutorials/" class="nav-submenu-item--link">
+                        Workshops and Tutorials
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <li class="nav-item" data-id="attending">
+            <a class="nav-item--link nav-item-has-submenu" href="attending">Attending</a>
+            <ul class="nav-submenu">
+                <li class="nav-submenu-item">
+                    <a href="attending/registration" class="nav-submenu-item--link">
+                        Registration
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="attending/venue" class="nav-submenu-item--link">
+                        Venue and Accommodation
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="attending/travel-grants" class="nav-submenu-item--link">
+                        Travel Grants
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <li class="nav-item" data-id="sponsors-supporters">
+            <a class="nav-item--link nav-item-has-submenu" href="sponsors-supporters">Sponsors and Supporters</a>
+            <ul class="nav-submenu">
+                <li class="nav-submenu-item">
+                    <a href="sponsors-supporters/packages" class="nav-submenu-item--link">
+                        Sponsorship Packages
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="sponsors-supporters/sponsors" class="nav-submenu-item--link">
+                        Sponsors
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <li class="nav-item" data-id="organization">
+            <a class="nav-item--link nav-item-has-submenu" href="organization">Organisation</a>
+            <ul class="nav-submenu">
+                <li class="nav-submenu-item">
+                    <a href="organization/organising-committee" class="nav-submenu-item--link">
+                        Organising Committee
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="organization/program-committee" class="nav-submenu-item--link">
+                        Program Committee
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+    </ul>
+</nav>

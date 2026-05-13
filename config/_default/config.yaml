@@ -1,0 +1,19 @@
+baseURL: "https://2026.eswc-conferences.org/"
+languageCode: en-us
+title: 2026 ESWC Conference
+
+enableGitInfo: true
+enableRobotsTXT: true
+
+disableKinds:
+- taxonomy
+- term
+- RSS
+
+theme:
+  - "tum-hugo"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

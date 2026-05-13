@@ -1,0 +1,44 @@
+---
+title: "23rd European Semantic Web Conference (ESWC)"
+subtitle: "May 10-14, 2026 | Dubrovnik | Croatia"
+newsNewDays: 7 # mark items from the last 14 days as NEW (default 14)
+
+news:
+  - date: 2026-03-13
+    text: "The [schedule of the pre-conference days](/program/program-overview/) is out!"
+  - date: 2026-03-11
+    text: "[Keynote speakers](/program/keynote-speakers/) announced! Check them out!"
+  - date: 2026-03-02
+    text: "The submission deadline for [poster and demo papers](/calls/poster-demo/) has been extended!"
+  - date: 2026-02-12
+    text: "[List of accepted papers in main tracks](/program/accepted-papers/) is available. Congratulations to the authors!"
+  - date: 2026-02-02
+    text: "[Industry Track Call for Paper](/calls/industry-track/) has been published!"
+  - date: 2026-01-16
+    text: "[Call for Posters and Demos](/calls/poster-demo/) has been published!"
+  - date: 2026-01-13
+    text: "[Accepted workshops and tutorials](/program/workshops-tutorials/) have been published!"
+  - date: 2025-12-01
+    text: "[Ph.D. Symposium call](/calls/phd-symposium/) has been published!"
+  - date: 2025-11-21
+    text: "Workshop call updated!"
+  - date: 2025-09-29
+    text: "[Call for Papers](/calls/) have been published!"     
+  - date: 2025-09-29
+    text: "Website launched 🎉"
+---
+## About ESWC
+The European Semantic Web Conference is a major venue for discussing the latest scientific results and technology innovations around semantic technologies and knowledge graphs. Building on its past success, ESWC is seeking to broaden its focus to span other relevant related research areas in which web semantics plays an important role.
+
+The goal of the Semantic Web is to create a Web of knowledge and services in which the semantics of content is made explicit and content is linked to both other content and services allowing novel applications to combine content from heterogeneous sites in unforeseen ways and support enhanced matching between users needs and content. This network of knowledge-based functionality will weave together a large network of human knowledge, and make this knowledge machine-processable to support intelligent behaviour by machines. Creating such an interlinked Web of knowledge which spans unstructured text, structured data  as well as multimedia content and services requires the collaboration of many disciplines, including but not limited to: Artificial Intelligence, Natural Language Processing, Databases and Information Systems, Information Retrieval, Machine Learning, Multimedia, Distributed Systems, Social Networks, Web Engineering, and Web Science. These complementarities are reflected in the outline of the technical program of the ESWC 2026. ESWC 2026 will present the latest results in research, technologies and applications in its field. Besides the technical program organized over numerous tracks, the conference will feature a workshop and tutorial program, system descriptions and demos, a posters exhibition and a doctoral symposium.
+
+All information on the ESWC conference series and past conferences can be found at www.eswc-conferences.org.
+
+
+
+
+
+
+
+
+
