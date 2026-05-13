@@ -1,4 +1,5 @@
-.gitignore
 public
 *.idea
 *.loc
+.hugo_build.lock
+.DS_Store
