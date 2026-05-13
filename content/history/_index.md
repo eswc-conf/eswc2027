@@ -145,3 +145,14 @@ The ESWC conference series rule document can be downloaded here: [Rules of ESWC]
 - **Location:** Portoroz, Slovenia
 - **General Chair:** Edward Curry
 - **Program Chairs:** Maribel Acosta, María Poveda-Villalón
+
+### [23rd European Semantic Web Conference (ESWC2026)](https://2026.eswc-conferences.org)
+- **Date:** May 10 – May 14, 2026
+- **Location:** Dubrovnik, Croatia
+- **General Chair:** Maribel Acosta
+- **Program Chairs:** Marieke van Erp, Sebastian Rudolph
+
+### [24th European Semantic Web Conference (ESWC2027)](https://2027.eswc-conferences.org)
+- **Date:** May 23 – May 27, 2027
+- **Location:** Limassol, Cyprus
+- **General Chair:** Raphaël Troncy
