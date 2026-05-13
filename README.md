@@ -1,4 +1,4 @@
-# 2026 ESWC Conference
+# 2027 ESWC Conference
 
 ## Configuration
 
@@ -32,19 +32,17 @@ The schedule is modified at `data/schedule.yaml`. See the existing data structur
 
 ## Installation
 1. Clone the repository
-2. [Install hugo](https://gohugo.io/installation/)
-3. Clone the theme into the themes directory:
-   ```bash
-   git clone git@github.com:ls1intum/tum-hugo-theme.git themes/tum-hugo-theme
-   ```
-4. Run the server:
+2. [Install Hugo](https://gohugo.io/installation/)
+3. Run the server:
    ```bash
    hugo server --bind -p 1313
    ```
-5. Open your browser and go to `http://localhost:1313/`
+4. Open your browser and go to `http://localhost:1313/`
+
+> **Note:** The theme (`themes/tum-hugo`) is a customized fork of [ls1intum/tum-hugo-theme](https://github.com/ls1intum/tum-hugo-theme) and is committed directly in the repository.
 
 ## About
-This is the source code of the website for the 2025 International Semantic Web Conference (ISWC 2025). The website is built using [Hugo](https://gohugo.io/) and the [TUM Hugo Theme](
+This is the source code of the website for the 24th European Semantic Web Conference (ESWC 2027). The website is built using [Hugo](https://gohugo.io/) and the [TUM Hugo Theme](https://github.com/ls1intum/tum-hugo-theme).
 
 ## TODO
 - [ ] Call for contributions: define important dates
