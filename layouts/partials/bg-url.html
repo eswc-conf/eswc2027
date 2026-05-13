@@ -1,5 +1,5 @@
 {{- /* bg-url.html: returns a single clean URL, no whitespace */ -}}
-{{- $default := "images/bg.jpg" -}}
+{{- $default := "images/bg.webp" -}}
 {{- $raw := .Param "background" | default $default -}}
 {{- $p := replaceRE "^/" "" $raw -}}
 
