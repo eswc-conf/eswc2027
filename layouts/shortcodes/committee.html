@@ -1,4 +1,8 @@
+{{ $img := .Get "img" }}
+{{ if or (not $img) (not (fileExists (printf "static/%s" $img))) }}
+  {{ $img = "images/profile-placeholder.svg" }}
+{{ end }}
 <div class="committee-member">
-    <img src="{{ (.Get "img") | relURL }}" alt="{{ .Get "name" }}" />
+    <img src="{{ $img | relURL }}" alt="{{ .Get "name" }}" />
     <p><strong>{{ .Get "name" }}</strong><br/>{{ .Get "affiliation" }}<br/>{{ .Get "country" }}</p>
 </div>
