@@ -4,8 +4,10 @@ subtitle: "May 23-27, 2027 | Limassol | Cyprus"
 newsNewDays: 7
 
 news:
-  - date: 2027-05-13
-    text: "Website launched!"
+  - date: 2026-10-13
+    text: "[Calls for Papers](calls/) for all tracks have been published!"
+  - date: 2026-05-13
+    text: "Website launched 🎉"
 ---
 ## About ESWC
 The European Semantic Web Conference is a major venue for discussing the latest scientific results and technology innovations around semantic technologies and knowledge graphs. Building on its past success, ESWC is seeking to broaden its focus to span other relevant related research areas in which web semantics plays an important role.
