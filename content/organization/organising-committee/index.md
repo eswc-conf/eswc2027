@@ -17,6 +17,8 @@ Contact: papadopoulos.george@ucy.ac.cy
 ---
 
 ### Research Track Chairs
+{{< committee img="images/people/alam.jpg" name="Mehwish Alam" affiliation="Télécom Paris, Institut Polytechnique de Paris" country="France" >}}
+
 {{< committee img="images/people/hartig.jpg" name="Olaf Hartig" affiliation="Linköping University" country="Sweden" >}}
 
 Contact: [eswc2027-research@easychair.org](mailto:eswc2027-research@easychair.org)

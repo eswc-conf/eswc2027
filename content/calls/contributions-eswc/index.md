@@ -68,6 +68,7 @@ In case of any questions regarding this policy, please contact the organizing co
 ## Program Chairs
 
 ### Research Track
+- **Mehwish Alam** – Télécom Paris, Institut Polytechnique de Paris, France
 - **Olaf Hartig** – Linköping University, Sweden
 
 Contact: [eswc2027-research@easychair.org](mailto:eswc2027-research@easychair.org)
