@@ -36,7 +36,7 @@ Contact: [eswc2027-inuse@easychair.org](mailto:eswc2027-inuse@easychair.org)
 
 ### PhD Symposium & Student Mentoring Chairs
 {{< committee img="images/people/colpaert.jpg" name="Pieter Colpaert" affiliation="Ghent University - IMEC" country="Belgium" >}}
-{{< committee img="images/people/von-erp.jpeg" name="Marieke van Erp" affiliation="KNAW Humanities Cluster" country="The Netherlands" >}}
+{{< committee img="images/people/van-erp.jpeg" name="Marieke van Erp" affiliation="KNAW Humanities Cluster" country="The Netherlands" >}}
 
 ### Poster and Demo Chairs
 {{< committee img="images/people/tietz.jpg" name="Tabea Tietz" affiliation="FIZ, Karlsruhe Institute of Technology" country="Germany" >}}
