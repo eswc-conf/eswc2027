@@ -48,6 +48,7 @@ Workshops need to clearly describe how they are planning to attract a sufficient
 The organizers (presenters) of accepted workshops are expected to:
 
 * have their own (open) reviewing process, publicity (e.g., website, timelines and call for papers) and proceedings production,
+* handle the submission and review process of the submissions to their workshops using the same installation of EasyChair that the main conference uses (they will be allocated a separate track within the EasyChair installation of the main conference),
 * **ensure that at least one organizer attends ESWC 2027 in person and registers before the early bird registration deadline because the conference will be 100% in-presence**
 * closely cooperate with the Workshop Chairs and the ESWC 2027 Local Chairs to finalize all organizational details.
 
