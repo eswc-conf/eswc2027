@@ -1,6 +1,5 @@
 ---
 title: "History"
-background: "images/geio-tischler-rjHTWXyhWcE-unsplash.jpg"
 ---
 This conference series started its life as the European Semantic Web Symposium (ESWS), which was held in Heraklion, Greece in May of 2004. The event was established by the [SEKT](http://www.sekt-project.com), [DIP](http://dip.semanticweb.org), and [KnowledgeWeb](http://knowledgeweb.semanticweb.org) projects that made up the SDK cluster. Based on the success of this first event, the symposium was expanded and upgraded to a conference with the new name the European Semantic Web Conference (ESWC).
 
