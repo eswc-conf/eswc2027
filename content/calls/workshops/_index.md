@@ -1,5 +1,5 @@
 ---
-title: "Call for Workshops"
+title: "Call for Workshop Proposals"
 ---
 ESWC is a premier venue for discussing the latest scientific results and innovations in the field of semantic technologies and knowledge graphs on the web, attracting a high number of participants from academia and industry alike.
 

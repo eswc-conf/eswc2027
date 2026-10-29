@@ -1,5 +1,5 @@
 ---
-title: "Call for Tutorials"
+title: "Call for Tutorial Proposals"
 ---
 
 ESWC 2027 invites tutorials that address the interests of its varied audience: people new to the Semantic Web, Semantic Web researchers and practitioners that wish to learn new technologies, users of Semantic Web technologies, and representatives of government and funding agencies as well as potential private investors in Semantic Web technologies.
