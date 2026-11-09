@@ -31,6 +31,7 @@ Contact: [eswc2027-resources@easychair.org](mailto:eswc2027-resources@easychair.
 
 ### In-Use Track Chairs
 {{< committee img="images/people/maleshkova.jpg" name="Maria Maleshkova" affiliation="Universität der Bundeswehr Hamburg" country="Germany" >}}
+{{< committee img="images/people/tiddi.jpg" name="Ilaria Tiddi" affiliation="Vrije Universiteit Amsterdam" country="The Netherlands" >}}
 
 Contact: [eswc2027-inuse@easychair.org](mailto:eswc2027-inuse@easychair.org)
 

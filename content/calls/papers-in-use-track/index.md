@@ -80,5 +80,8 @@ All deadlines are 23:59 anywhere on earth (UTC-12).
 - **Maria Maleshkova**     
 Universität der Bundeswehr Hamburg, Germany
 
+- **Ilaria Tiddi**     
+Vrije Universiteit Amsterdam, The Netherlands
+
 Contact: [eswc2027-inuse@easychair.org](mailto:eswc2027-inuse@easychair.org)
 
