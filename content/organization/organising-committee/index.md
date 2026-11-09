@@ -45,7 +45,7 @@ Contact: [eswc2027-inuse@easychair.org](mailto:eswc2027-inuse@easychair.org)
 {{< committee img="images/people/tiwari.jpg" name="Sanju Tiwari" affiliation="Sharda University" country="India" >}}
 
 ### Sponsor Chairs
-{{< committee img="images/people/gentile.jpg" name="Anna Lisa Gentile" affiliation="IBM Research" country="USA" >}}
+{{< committee img="images/people/sequeda.jpg" name="Juan Sequeda" affiliation="ServiceNow" country="USA" >}}
 {{< committee img="images/people/domingue.jpg" name="John Domingue" affiliation="KMi, The Open University" country="UK" >}}
 
 ### Publicity Chair
