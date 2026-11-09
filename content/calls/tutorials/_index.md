@@ -68,4 +68,4 @@ Each proposal must consist of a single PDF document written in English, no longe
 
 ## Workshop & Tutorial Chairs
 
-*To be announced.*
+- **David Chaves-Fraga** – Universidade de Santiago de Compostela, Spain

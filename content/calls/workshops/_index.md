@@ -114,5 +114,5 @@ We also encourage the submission of workshops that extend the typical workshop f
 
 ## Workshop & Tutorial Chairs
 
-*To be announced.*
+- **David Chaves-Fraga** – Universidade de Santiago de Compostela, Spain
 
