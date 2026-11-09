@@ -36,6 +36,40 @@
   <link rel="canonical" href="{{ . }}">
   <meta name="robots" content="noindex">
 {{end}}
+{{ if not .Params.link }}
+  {{ $pageTitle := .Site.Title }}
+  {{ if and (not .IsHome) .Params.Title }}{{ $pageTitle = printf "%s - %s" .Params.Title .Site.Title }}{{ end }}
+  {{ $desc := or .Params.description .Site.Params.description }}
+  <meta name="description" content="{{ $desc }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="describedby" href="{{ absURL "llms.txt" }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:title" content="{{ $pageTitle }}">
+  <meta property="og:description" content="{{ $desc }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:image" content="{{ absURL "images/2027-logo.png" }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ $pageTitle }}">
+  <meta name="twitter:description" content="{{ $desc }}">
+  <meta name="twitter:image" content="{{ absURL "images/2027-logo.png" }}">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ConferenceEvent",
+    "name": "ESWC 2027 - 24th European Semantic Web Conference",
+    "alternateName": "Extended Semantic Web Conference 2027",
+    "url": "https://2027.eswc-conferences.org/",
+    "startDate": "2027-05-23",
+    "endDate": "2027-05-27",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": { "@type": "Place", "name": "St. Raphael Resort & Marina", "address": { "@type": "PostalAddress", "addressLocality": "Limassol", "addressCountry": "CY" } },
+    "organizer": { "@type": "Organization", "name": "Semantic Web Science Association (SWSA)", "url": "https://swsa.semanticweb.org" },
+    "description": "The 24th European Semantic Web Conference (ESWC 2027), May 23-27, 2027, Limassol, Cyprus."
+  }
+  </script>
+{{ end }}
 </head>
 
 <body>
