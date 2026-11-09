@@ -1,0 +1,43 @@
+# ESWC 2027 – 24th European Semantic Web Conference
+
+> The 24th European Semantic Web Conference (ESWC 2027) takes place May 23-27, 2027, at St. Raphael Resort & Marina in Limassol, Cyprus. It is a major European venue for Semantic Web, knowledge graph and semantic technology research. Submissions are handled via EasyChair and accepted papers are published in Springer LNCS.
+
+Key dates, deadlines at 23:59 anywhere on earth:
+
+- Abstract submission: December 10, 2026
+- Full paper submission: December 17, 2026
+- Notification of acceptance: February 19, 2027
+- Conference: May 23-27, 2027
+
+Tracks: Research, Resources, In-Use, Industry, Project Networking, Posters and Demos, Ph.D. Symposium, Workshops, and Tutorials. Authors of rejected ISWC 2026 Research Track papers may opt in to resubmit.
+
+## Calls
+
+- [Call for Contributions](https://2027.eswc-conferences.org/calls/contributions-eswc/): overview of every track, its review process and deadlines
+- [Call for Papers: Research Track](https://2027.eswc-conferences.org/calls/papers-research-track/): novel algorithms, methods and evaluation studies, double-anonymous review
+- [Call for Papers: Resources Track](https://2027.eswc-conferences.org/calls/papers-resource-track/): datasets, ontologies, workflows and benchmarks with a reusable resource
+- [Call for Papers: In-Use Track](https://2027.eswc-conferences.org/calls/papers-in-use-track/): applications of semantic technologies in real-world settings
+- [Call for Papers: Industry Track](https://2027.eswc-conferences.org/calls/industry-track/): 4-page industry extended abstracts
+- [Call for Papers: Project Networking Track](https://2027.eswc-conferences.org/calls/project-networking/): project presentations and collaboration pitches
+- [Call for Posters and Demos](https://2027.eswc-conferences.org/calls/poster-demo/): late-breaking results and prototypes
+- [Call for Workshop Proposals](https://2027.eswc-conferences.org/calls/workshops/): co-located workshop proposals, due December 17, 2026
+- [Call for Tutorial Proposals](https://2027.eswc-conferences.org/calls/tutorials/): tutorial proposals, due January 14, 2027
+- [Call for Ph.D. Symposium](https://2027.eswc-conferences.org/calls/phd-symposium/): Ph.D. research presentations with mentoring
+- [ISWC 2026 Resubmissions](https://2027.eswc-conferences.org/calls/iswc/): opt-in resubmission path for rejected ISWC 2026 papers
+
+## Conference
+
+- [Important Dates](https://2027.eswc-conferences.org/important-dates/): every deadline in one table
+- [Venue and Accommodation](https://2027.eswc-conferences.org/attending/venue/): St. Raphael Resort & Marina, travel to Cyprus, getting around
+- [Organising Committee](https://2027.eswc-conferences.org/organization/organising-committee/): General Chair Raphaël Troncy (EURECOM) and the track chairs
+
+## Submission
+
+- [EasyChair submission portal](https://easychair.org/conferences/?conf=eswc2027): single portal for all tracks
+
+## Optional
+
+- [ESWC series website](https://www.eswc-conferences.org/): series history and past editions
+- [SWSA](https://swsa.semanticweb.org): Semantic Web Science Association, which oversees the series
+- [Mastodon](https://sigmoid.social/@eswc_conf): announcements and news
+- [Source repository](https://github.com/eswc-conf/eswc2027): this site's source and issue tracker
