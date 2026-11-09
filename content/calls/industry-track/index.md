@@ -81,3 +81,6 @@ Emerging applications that have not yet been deployed (proofs of concept) and do
 ## Industry Track Chairs
 **Yoan Chabot**  
 Orange - France
+
+**Felix Sasaki**  
+SAP - Germany

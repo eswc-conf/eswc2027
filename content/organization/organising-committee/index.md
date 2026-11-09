@@ -40,6 +40,7 @@ Contact: [eswc2027-inuse@easychair.org](mailto:eswc2027-inuse@easychair.org)
 
 ### Industry Track Chairs
 {{< committee img="images/people/chabot.jpg" name="Yoan Chabot" affiliation="Orange" country="France" >}}
+{{< committee img="images/people/sasaki.jpg" name="Felix Sasaki" affiliation="SAP" country="Germany" >}}
 
 ### PhD Symposium & Student Mentoring Chairs
 {{< committee img="images/people/colpaert.jpg" name="Pieter Colpaert" affiliation="Ghent University - IMEC" country="Belgium" >}}
