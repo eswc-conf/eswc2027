@@ -1,6 +1,6 @@
 baseURL: "https://2027.eswc-conferences.org/"
 locale: en-us
-title: 2027 ESWC Conference
+title: ESWC 2027 – European Semantic Web Conference
 
 enableGitInfo: true
 enableRobotsTXT: true
@@ -17,3 +17,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+params:
+  description: "24th European Semantic Web Conference (ESWC 2027), May 23-27 2027, Limassol, Cyprus. Abstracts due Dec 10, full papers Dec 17, 2026. Submit via EasyChair."
