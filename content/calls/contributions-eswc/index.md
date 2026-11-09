@@ -75,6 +75,7 @@ Contact: [eswc2027-research@easychair.org](mailto:eswc2027-research@easychair.or
 
 ### Resources Track
 - **Pasquale Lisena** – EURECOM, France
+- **Lise Stork** – University of Amsterdam, The Netherlands
 
 Contact: [eswc2027-resources@easychair.org](mailto:eswc2027-resources@easychair.org)
 

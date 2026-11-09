@@ -25,6 +25,7 @@ Contact: [eswc2027-research@easychair.org](mailto:eswc2027-research@easychair.or
 
 ### Resources Track Chairs
 {{< committee img="images/people/lisena.jpeg" name="Pasquale Lisena" affiliation="EURECOM" country="France" >}}
+{{< committee img="images/people/stork.jpg" name="Lise Stork" affiliation="University of Amsterdam" country="The Netherlands" >}}
 
 Contact: [eswc2027-resources@easychair.org](mailto:eswc2027-resources@easychair.org)
 

@@ -155,6 +155,9 @@ Papers accepted in the **Research**, **In-Use**, and **Resources** tracks will a
 - **Pasquale Lisena**  
   EURECOM, France
 
+- **Lise Stork**  
+  University of Amsterdam, The Netherlands
+
 Contact: [eswc2027-resources@easychair.org](mailto:eswc2027-resources@easychair.org)
 
 ---
