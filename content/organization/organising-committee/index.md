@@ -34,6 +34,9 @@ Contact: [eswc2027-resources@easychair.org](mailto:eswc2027-resources@easychair.
 
 Contact: [eswc2027-inuse@easychair.org](mailto:eswc2027-inuse@easychair.org)
 
+### Metadata Chair
+{{< committee img="images/people/pellegrino.jpg" name="Maria Angela Pellegrino" affiliation="University of Salerno" country="Italy" >}}
+
 ### Industry Track Chairs
 {{< committee img="images/people/chabot.jpg" name="Yoan Chabot" affiliation="Orange" country="France" >}}
 
