@@ -53,8 +53,9 @@ Contact: [eswc2027-inuse@easychair.org](mailto:eswc2027-inuse@easychair.org)
 {{< committee img="images/people/tietz.jpg" name="Tabea Tietz" affiliation="FIZ, Karlsruhe Institute of Technology" country="Germany" >}}
 {{< committee img="images/people/tiwari.jpg" name="Sanju Tiwari" affiliation="Sharda University" country="India" >}}
 
-### Workshop & Tutorial Chair
+### Workshop & Tutorial Chairs
 {{< committee img="images/people/chaves-fraga.jpg" name="David Chaves-Fraga" affiliation="Universidade de Santiago de Compostela" country="Spain" >}}
+{{< committee img="images/people/trojahn.jpg" name="Cassia Trojahn" affiliation="Université Grenoble Alpes" country="France" >}}
 
 ### Sponsor Chairs
 {{< committee img="images/people/sequeda.jpg" name="Juan Sequeda" affiliation="ServiceNow" country="USA" >}}

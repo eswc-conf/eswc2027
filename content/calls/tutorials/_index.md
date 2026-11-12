@@ -69,3 +69,4 @@ Each proposal must consist of a single PDF document written in English, no longe
 ## Workshop & Tutorial Chairs
 
 - **David Chaves-Fraga** – Universidade de Santiago de Compostela, Spain
+- **Cassia Trojahn** – Université Grenoble Alpes, France
