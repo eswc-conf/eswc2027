@@ -42,6 +42,9 @@ Contact: [eswc2027-inuse@easychair.org](mailto:eswc2027-inuse@easychair.org)
 {{< committee img="images/people/chabot.jpg" name="Yoan Chabot" affiliation="Orange" country="France" >}}
 {{< committee img="images/people/sasaki.jpg" name="Felix Sasaki" affiliation="SAP" country="Germany" >}}
 
+### Project Networking Track Chair
+{{< committee img="images/people/garijo.jpg" name="Daniel Garijo" affiliation="Universidad Politécnica de Madrid" country="Spain" >}}
+
 ### PhD Symposium & Student Mentoring Chairs
 {{< committee img="images/people/colpaert.jpg" name="Pieter Colpaert" affiliation="Ghent University - IMEC" country="Belgium" >}}
 {{< committee img="images/people/van-erp.jpeg" name="Marieke van Erp" affiliation="KNAW Humanities Cluster" country="The Netherlands" >}}

@@ -50,4 +50,5 @@ The accepted contributions will be published on Zenodo [https://zenodo.org/](htt
 
 ## Project Networking Chairs
 
-*To be announced.*
+**Daniel Garijo**  
+Universidad Politécnica de Madrid - Spain
