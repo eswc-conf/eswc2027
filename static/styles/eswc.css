@@ -318,4 +318,73 @@ a.btn:hover {
 .tag-in-use { background: #db2777; }
 .tag-industry { background: #ea580c; }
 
+@media screen and (max-width: 799px) {
+    #navbar--wrapper {
+        display: none;
+    }
+    header > div:first-child {
+        justify-content: flex-start;
+    }
+    #header-list {
+        flex: 0 0 auto;
+    }
+    #header-logo-container {
+        margin-left: auto;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    #mobile-navbar--button {
+        display: none;
+    }
+    #navbar--wrapper {
+        flex: 1 1 auto;
+        min-width: 0;
+        justify-content: flex-end;
+        padding-right: 1rem;
+    }
+    #header-list {
+        flex: 0 0 auto;
+    }
+    #navbar > *:not(:first-child) {
+        margin-left: 0;
+    }
+    .nav-item:has(.nav-submenu) {
+        position: relative;
+    }
+    .nav-item:nth-last-child(-n+2) .nav-submenu {
+        left: auto;
+        right: 0;
+    }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1279px) {
+    #navbar--wrapper nav:first-child {
+        display: block;
+    }
+    nav > ul {
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        gap: 0.5rem 1.75rem;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    nav > ul {
+        width: max-content;
+    }
+}
+
+@media screen and (min-width: 1280px) and (max-width: 1439px) {
+    nav > ul {
+        gap: 1.75rem;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    nav > ul {
+        gap: 2.5rem;
+    }
+}
+
 
