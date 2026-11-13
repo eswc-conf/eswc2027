@@ -78,7 +78,7 @@ function get_toc_content() {
 
     for (let i = 0; i < headers.length; i ++) {
         let header = headers[i];
-        let id = `toc-${i}`;
+        let id = header.id || `toc-${i}`;
         header.id = id;
         let local_level = parseInt(header.tagName[1]);
         while (level < local_level) {
@@ -171,7 +171,11 @@ function updateCurrentTOCElement() {
     if (closestHeader === undefined || closestHeader.id === undefined) {
         return;
     }
-    document.querySelectorAll(`#toc--content > ul > li > a`)[parseInt(closestHeader.id.replace("toc-", ""))].classList.add('current');
+    const headerIndex = Array.from(headers).indexOf(closestHeader);
+    if (headerIndex === -1) {
+        return;
+    }
+    document.querySelectorAll(`#toc--content > ul > li > a`)[headerIndex].classList.add('current');
 }
 
 
