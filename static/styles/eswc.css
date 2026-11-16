@@ -55,6 +55,12 @@ html.dark {
     --color-link-muted: #999;
 }
 
+.main-container > .container-full {
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+    width: auto;
+}
+
 /* ------------
    Viewport
    ------------ */
