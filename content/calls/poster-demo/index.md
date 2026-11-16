@@ -77,11 +77,9 @@ Participants with an accepted poster or demonstration must register for the conf
 All deadlines are 23:59 anywhere on earth (UTC-12).
 
 ## Poster and Demo Chairs
-**Tabea Tietz**  
-FIZ Karlsruhe and Karlsruhe Institute of Technology, Germany
 
-**Sanju Tiwari**  
-Sharda University, India
+- **Tabea Tietz** - FIZ Karlsruhe and Karlsruhe Institute of Technology, Germany
+- **Sanju Tiwari** - Sharda University, India
 
 Contact: [eswc2027-poster-demo@easychair.org](mailto:eswc2027-poster-demo@easychair.org)
 

@@ -52,3 +52,5 @@ The accepted contributions will be published on Zenodo [https://zenodo.org/](htt
 
 **Daniel Garijo**  
 Universidad Politécnica de Madrid - Spain
+
+Contact: [eswc2027-project-networking@easychair.org](mailto:eswc2027-project-networking@easychair.org)

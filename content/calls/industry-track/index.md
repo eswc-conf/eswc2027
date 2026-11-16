@@ -79,8 +79,8 @@ Papers offering a more detailed, technical, and scientifically focused descripti
 Emerging applications that have not yet been deployed (proofs of concept) and do not primarily aim at business value may be better submitted to the Poster and demo track.
 
 ## Industry Track Chairs
-**Yoan Chabot**  
-Orange - France
 
-**Felix Sasaki**  
-SAP - Germany
+- **Yoan Chabot** - Orange, France
+- **Felix Sasaki** - SAP, Germany
+
+Contact: [eswc2027-industry@easychair.org](mailto:eswc2027-industry@easychair.org)

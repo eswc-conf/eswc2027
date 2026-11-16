@@ -70,3 +70,5 @@ Each proposal must consist of a single PDF document written in English, no longe
 
 - **David Chaves-Fraga** – Universidade de Santiago de Compostela, Spain
 - **Cassia Trojahn** – Université Grenoble Alpes, France
+
+Contact: [eswc2027-tutorial@easychair.org](mailto:eswc2027-tutorial@easychair.org)

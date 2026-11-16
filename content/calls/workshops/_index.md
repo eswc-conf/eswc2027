@@ -117,3 +117,4 @@ We also encourage the submission of workshops that extend the typical workshop f
 - **David Chaves-Fraga** – Universidade de Santiago de Compostela, Spain
 - **Cassia Trojahn** – Université Grenoble Alpes, France
 
+Contact: [eswc2027-workshop@easychair.org](mailto:eswc2027-workshop@easychair.org)

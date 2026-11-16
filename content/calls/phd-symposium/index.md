@@ -99,8 +99,8 @@ outline above.
 All deadlines are 23:59 anywhere on earth (UTC-12).
 
 ## Ph.D. Symposium Chairs
-**Pieter Colpaert**  
-IMEC - University of Ghent, Belgium
 
-**Marieke van Erp**  
-KNAW Humanities Cluster, The Netherlands
+- **Pieter Colpaert** - IMEC - University of Ghent, Belgium
+- **Marieke van Erp** - KNAW Humanities Cluster, The Netherlands
+
+Contact: [eswc2027-phd-symposium@easychair.org](mailto:eswc2027-phd-symposium@easychair.org)
