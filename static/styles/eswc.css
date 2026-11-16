@@ -60,7 +60,7 @@ html.dark {
    ------------ */
 @media (min-width: 1280px) {
     main > * {
-        max-width: 900px;
+        max-width: 64rem;
     }
 }
 
@@ -393,3 +393,168 @@ a.btn:hover {
 }
 
 
+
+:root {
+    --font-sans: "Montserrat", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+}
+code, pre, kbd, samp {
+    font-family: var(--font-mono);
+}
+
+body {
+    font-size: 1.125rem;
+    letter-spacing: -0.006em;
+}
+main, .homepage-content {
+    line-height: 1.75;
+    margin-top: 3rem;
+}
+main p, .homepage-content p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    line-height: inherit;
+    text-wrap: pretty;
+}
+main p a, main li a, main td a {
+    font-weight: 600;
+}
+
+main > h1 {
+    font-size: clamp(1.75rem, 1.2rem + 2vw, 2.5rem);
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 3rem;
+    text-wrap: balance;
+}
+main h2 {
+    position: relative;
+    font-size: clamp(1.4rem, 1.1rem + 1vw, 1.75rem);
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.7rem;
+    border-bottom: 1px solid var(--color-border);
+    text-wrap: balance;
+}
+main h2::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    width: 2.75rem;
+    height: 3px;
+    background: var(--color-accent);
+    border-radius: 3px;
+}
+main h2:not(:first-of-type) {
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+main h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+    margin-top: 2rem;
+    margin-bottom: 0.6rem;
+    border-bottom: none;
+    padding-bottom: 0;
+    text-transform: none;
+    text-wrap: balance;
+}
+main h4 {
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-top: 2rem;
+    margin-bottom: 0.6rem;
+    border-left: none;
+    padding-left: 0;
+    text-wrap: balance;
+}
+main h5 {
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+main h6 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+main ul, main ol,
+.homepage-content ul:not(.news-box__list), .homepage-content ol {
+    padding-left: 1.75rem;
+    margin-left: 0;
+    margin-bottom: 1rem;
+    line-height: inherit;
+}
+main ul { list-style-type: disc; }
+main ul ul { list-style-type: circle; }
+main ul ul ul { list-style-type: square; }
+main ol { list-style-type: decimal; }
+main ol ol { list-style-type: lower-alpha; }
+main li, .homepage-content li:not(.news-box__item) {
+    margin-bottom: 0.35rem;
+}
+li::marker {
+    color: var(--color-accent);
+}
+main ul ul, main ul ol, main ol ul, main ol ol {
+    margin-top: 0.35rem;
+    margin-bottom: 0.5rem;
+}
+
+main table:not(.schedule-table) {
+    font-size: 0.95rem;
+    line-height: inherit;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+}
+main table:not(.schedule-table) th,
+main table:not(.schedule-table) td {
+    font-size: 0.95rem;
+    padding: 0.7rem 1rem;
+    vertical-align: top;
+    text-align: left;
+    line-height: inherit;
+}
+main table:not(.schedule-table) thead th {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    text-align: left;
+}
+
+@media (min-width: 768px) {
+    main, .homepage-content {
+        text-align: justify;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+    }
+    :where(main, .homepage-content) :where(h1, h2, h3, h4, h5, h6, table, th, td,
+        figure, figcaption, pre,
+        .committee-member, .keynote-speaker, .keynote-description-text,
+        .project-description-text, .news-box, .partner--wrapper, .portrait-text,
+        .portrait_wrapper, .instructor--text, .instructor--wrapper, .box--wrapper,
+        .accordion--wrapper, .courselist-card, .courselist-body, .social-share,
+        .signup-button--wrapper, .card--wrapper, .teaching-carousel-item,
+        .project-card, .research-field, .person-wrapper, .person-text,
+        .research-item, .responsive-table-wrapper, .mission-statement,
+        .schedule-table, .theses--table, .csc-textpic-caption) {
+        text-align: left;
+        -webkit-hyphens: manual;
+        hyphens: manual;
+    }
+}
+main td, main li, main p {
+    overflow-wrap: break-word;
+}
