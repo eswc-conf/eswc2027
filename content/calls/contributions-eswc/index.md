@@ -81,5 +81,7 @@ Contact: [eswc2027-resources@easychair.org](mailto:eswc2027-resources@easychair.
 
 ### In-Use Track
 - **Maria Maleshkova** – Universität der Bundeswehr Hamburg, Germany
+- **Ilaria Tiddi** – Vrije Universiteit Amsterdam, The Netherlands
+
 
 Contact: [eswc2027-inuse@easychair.org](mailto:eswc2027-inuse@easychair.org)
