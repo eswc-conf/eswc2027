@@ -14,7 +14,7 @@ We welcome contributions from any industry and application area on topics such a
 - Creating value through Semantic Web technologies and knowledge graphs.
 - Key factors for the success of adoption and challenges that stand in the way.
 - Experience with applying methodologies and best practices from academic papers: Do they work? Do they scale?
-- Transferability of results reported academic papers to an industry setting (real-world data, scalability).
+- Transferability of results reported in academic papers to an industry setting (real-world data, scalability).
 - The combination of Semantic Web technologies with other (AI) technologies, such as information retrieval, ML over knowledge graphs, NLP, Human-AI interaction, distributed computing, stream processing, Generative AI, and Agentic AI.
 - Technologies for data and knowledge graph curation, evolution, quality, integrity, trust, and privacy.
 - Experience with publishing and reuse of FAIR data; data as a product.
