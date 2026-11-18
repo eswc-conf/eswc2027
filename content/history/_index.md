@@ -20,7 +20,7 @@ The ESWC conference series rule document can be downloaded here: [Rules of ESWC]
 - **Industrial Track Chair:** Christoph Bussler
 
 ### [2nd European Semantic Web Conference (ESWC2005)](https://2005.eswc-conferences.org/)
-- **Date:** May 24 – June 01, 2005
+- **Date:** May 29 – June 01, 2005
 - **Location:** Heraklion, Greece
 - **General Chair:** Jérôme Euzenat
 - **Program Chair:** Asunción Gómez Pérez
