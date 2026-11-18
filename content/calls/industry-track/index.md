@@ -48,7 +48,7 @@ We welcome submissions with original content and will not accept already publish
 Industry papers should be submitted as extended abstracts (4 pages including references) via [EasyChair](https://easychair.org/conferences/?conf=eswc2027). 
 Submissions must be in English and in PDF or HTML format, following the Springer Publications format for Lecture Notes in Computer Science (LNCS).
 
-For details on the LNCS style, see [Springer’s Author Instructions](https://www.springer.com/us/computer-science/lncs/conference-proceedings-guidelines). For HTML submission guidance, visit the [HTML submission guide](https://2025.eswc-conferences.org/html-submission-guide/).
+For details on the LNCS style, see [Springer’s Author Instructions](https://www.springer.com/us/computer-science/lncs/conference-proceedings-guidelines). For HTML submission guidance, visit the [HTML submission guide](https://iswc2026.semanticweb.org/#/guidelines/html-submission).
 
 
 ## Review Criteria

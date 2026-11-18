@@ -34,7 +34,7 @@ topics foreseen by the [research track](https://2027.eswc-conferences.org/calls/
 ## Submission Information
 Ph.D. students in all areas of Semantic Web research are invited to submit papers of
 between 8 and 10 pages (excluding references) describing their Ph.D. research, in PDF or
-HTML format, following the [LNCS template](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) (see [here](https://2024.eswc-conferences.org/html-submission-guide/) for the HTML submission guide).
+HTML format, following the [LNCS template](https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) (see [here](https://iswc2026.semanticweb.org/#/guidelines/html-submission) for the HTML submission guide).
 Submissions must be uploaded to EasyChair at (choose the “PhD Symposium” track when
 submitting). They will be evaluated in a closed reviewing process.
 

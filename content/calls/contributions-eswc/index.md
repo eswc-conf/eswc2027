@@ -45,7 +45,7 @@ All deadlines are **23:59 Anywhere on Earth (UTC-12)**.
     - Be written in **English**
     - Not exceed **15 pages**, excluding references
     - Be formatted in **PDF** or **HTML** using the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
-    - HTML submissions must follow the [HTML submission guide](https://2024.eswc-conferences.org/html-submission-guide/)
+    - HTML submissions must follow the [HTML submission guide](https://iswc2026.semanticweb.org/#/guidelines/html-submission)
 - Review process:
     - Research Track: Double-anonymous review
     - Resources and In-Use Tracks: Single-anonymous review
