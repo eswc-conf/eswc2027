@@ -12,7 +12,7 @@ Contact : raphael.troncy@eurecom.fr
 ### Local Organizer
 {{< committee img="images/people/papadopoulos.jpg" name="George Angelos Papadopoulos" affiliation="University of Cyprus" country="Cyprus" >}}
 
-Contact: papadopoulos.george@ucy.ac.cy
+Contact: george@ucy.ac.cy
 
 ---
 
