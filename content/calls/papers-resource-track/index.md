@@ -63,7 +63,7 @@ The program committee will evaluate both the paper and the associated resource, 
 - Does the resource description clearly state what the resource can and cannot do, and the rationale for the exclusion of some functionality?
 
 #### Design & Technical Quality
--Does the design of the resource follow resource-specific best practices?
+- Does the design of the resource follow resource-specific best practices?
 - Did the authors perform an appropriate re-use or extension of suitable high-quality resources? For example, in the case of ontologies, authors might extend upper ontologies and/or reuse ontology design patterns.
 - Does the resource provide an appropriate description (both human- and machine-readable), thus encouraging the adoption of [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) principles? Is there a schema diagram? For datasets, is the description available in terms of VoID/DCAT/DublinCore?
 - Does it use open standards, when applicable, or have good reasons not to?
