@@ -19,7 +19,7 @@ The deadline to commit your paper for resubmission is **to be announced**.
 ## Paper Submission
 The full paper should be submitted in the regular ESWC 2027 deadline, together with a cover letter detailing the changes you have performed in the paper. 
 
-The full instruction for submitting your paper are found in the [Call for Papers: Research Track](https://2027.eswc-conferences.org/calls/papers-research-track/) page.
+The full instructions for submitting your paper are found in the [Call for Papers: Research Track](https://2027.eswc-conferences.org/calls/papers-research-track/) page.
 
 ## Paper Review 
 Your resubmitted paper will then be transferred, along with your previous reviews, to a reviewer pool composed of at least some of the original reviewers (ideally all, although obviously cannot be guaranteed) and at least one new, fresh reviewer.
