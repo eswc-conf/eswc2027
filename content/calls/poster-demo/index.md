@@ -16,7 +16,7 @@ We welcome submissions that span the broad spectrum of Semantic Web research and
 - Agents & Multi-Agent Systems: LLM-based agents, knowledge graphs as agent memory, and semantic interoperability between agents.
 - Tools & Interaction: User interfaces, visualization, query and exploration tools.
 
-Contributions should be clearly related to the Semantic Web or have an impact in the field of semantics. ESWC adheres to the principles and guidelines stated in the [ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship) specifically about “Criteria for Authorship” regarding the use of Generative AI technologies for authoring papers. Authors must disclose the use of generative AI tools in a separate ‘Use of Generative AI’ section.
+Contributions should be clearly related to the Semantic Web or have an impact in the field of semantics. ESWC adheres to the [ESWC 2027 policy on the use of Generative AI for authors](/guidelines/generative-ai-authors/). Authors must disclose the use of generative AI tools in a separate ‘Use of Generative AI’ section.
 
 ## Review Criteria
 
