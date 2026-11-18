@@ -50,7 +50,7 @@ Contact: [eswc2027-inuse@easychair.org](mailto:eswc2027-inuse@easychair.org)
 {{< committee img="images/people/van-erp.jpeg" name="Marieke van Erp" affiliation="KNAW Humanities Cluster" country="The Netherlands" >}}
 
 ### Poster and Demo Chairs
-{{< committee img="images/people/tietz.jpg" name="Tabea Tietz" affiliation="FIZ, Karlsruhe Institute of Technology" country="Germany" >}}
+{{< committee img="images/people/tietz.jpg" name="Tabea Tietz" affiliation="FIZ Karlsruhe and Karlsruhe Institute of Technology" country="Germany" >}}
 {{< committee img="images/people/tiwari.jpg" name="Sanju Tiwari" affiliation="Sharda University" country="India" >}}
 
 ### Workshop & Tutorial Chairs
