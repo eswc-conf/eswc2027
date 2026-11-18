@@ -53,7 +53,7 @@ For details on the LNCS style, see [Springer’s Author Instructions](https://ww
 
 ## Review Criteria
 Reviews will be done by a committee of members from both industry and academia.  
-Reviews will be single and anonymous. The review criteria include the following:
+Reviews will be single-anonymous. The review criteria include the following:
 - Maturity of the implementation and value created for the industry
 - The degree to which Semantic Web technologies play a key role in the experience
 - Insights and Lessons Learned for other applications or the research community
