@@ -14,7 +14,7 @@ The process is very simple, you just need to provide the title, abstract, author
 
 The deadline to commit your paper for resubmission is **to be announced**.
 
-**Important:** This is a pre-requesite for your paper to be considered a *resubmission*. 
+**Important:** This is a prerequisite for your paper to be considered a *resubmission*. 
 
 ## Paper Submission
 The full paper should be submitted in the regular ESWC 2027 deadline, together with a cover letter detailing the changes you have performed in the paper. 
