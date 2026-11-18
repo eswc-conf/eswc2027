@@ -81,7 +81,7 @@ The ESWC conference series rule document can be downloaded here: [Rules of ESWC]
 
 ### [12th Extended Semantic Web Conference (ESWC2015)](https://2015.eswc-conferences.org)
 - **Date:** May 31 – June 4, 2015
-- **Location:** Portotoz, Slovenia
+- **Location:** Portorož, Slovenia
 - **General Chair:** Fabien Gandon
 - **Program Chairs:** Harald Sack, Marta Sabou
 
@@ -93,7 +93,7 @@ The ESWC conference series rule document can be downloaded here: [Rules of ESWC]
 
 ### [14th Extended Semantic Web Conference (ESWC2017)](https://2017.eswc-conferences.org)
 - **Date:** May 28 – June 1, 2017
-- **Location:** Portoroz, Slovenia
+- **Location:** Portorož, Slovenia
 - **General Chair:** Eva Blomqvist
 - **Program Chairs:** Diana Maynard, Aldo Gangemi
 
@@ -105,7 +105,7 @@ The ESWC conference series rule document can be downloaded here: [Rules of ESWC]
 
 ### [16th Extended Semantic Web Conference (ESWC2019)](https://2019.eswc-conferences.org)
 - **Date:** June 2 – June 6, 2019
-- **Location:** Portoroz, Slovenia
+- **Location:** Portorož, Slovenia
 - **General Chair:** Pascal Hitzler
 - **Program Chairs:** Miriam Fernandez, Krzysztof Janowicz
 
@@ -141,7 +141,7 @@ The ESWC conference series rule document can be downloaded here: [Rules of ESWC]
 
 ### [22nd Extended Semantic Web Conference (ESWC2025)](https://2025.eswc-conferences.org)
 - **Date:** June 1 – June 5, 2025
-- **Location:** Portoroz, Slovenia
+- **Location:** Portorož, Slovenia
 - **General Chair:** Edward Curry
 - **Program Chairs:** Maribel Acosta, María Poveda-Villalón
 
