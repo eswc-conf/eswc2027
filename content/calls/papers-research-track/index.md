@@ -24,7 +24,7 @@ Submissions are solicited in the following domains of interest:
 - Provenance and management;
 - Reuse, modularization, matching, integration, and fusion of knowledge graphs;
 - Structured, semi-structured and unstructured data to knowledge graph matching;
-- Knowledge Graphs construction and probing with Foundational Language Models; 
+- Knowledge graph construction and probing with Foundational Language Models;
 - Decentralized and federated knowledge graphs.
 
 **Artificial Intelligence, Natural Language Processing and Semantics**
