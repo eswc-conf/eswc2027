@@ -142,8 +142,8 @@ All deadlines are **23:59 Anywhere on Earth (UTC-12)**.
 We strongly encourage prospective authors to carefully review the calls for the other main tracks of the conference, in order to identify the most suitable track for their work
 
 * **Research Track**: Papers proposing new algorithms, methods, experimental studies, or architectures should be submitted here.
-* **In-Use Track**: Papers demonstrating the application of state-of-the-art semantic technologies or resources in practical settings (i.e., where the novelty lies in the application).  
-  Industry authors wishing to present an interesting application without submitting a full paper are also encouraged to submit here.
+* **In-Use Track**: Papers demonstrating the application of state-of-the-art semantic technologies or resources in practical settings (i.e., where the novelty lies in the application).
+* **Industry Track**: Industry authors wishing to present an interesting application without submitting a full paper should submit here.
 * **Resources Track:** Papers describing concrete resources, such as datasets, ontologies, vocabularies, annotated corpora, workflows, knowledge graphs, or evaluation benchmarks, should be submitted to this track.
 
 Papers accepted in the **Research**, **In-Use**, and **Resources** tracks will all be published in the conference proceedings. <!-- within *Springer’s Lecture Notes in Computer Science* series.-->
