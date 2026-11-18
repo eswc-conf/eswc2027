@@ -69,7 +69,7 @@ All deadlines are 23:59 anywhere on earth (UTC-12).
 * The proceedings of this conference will be published in Springer’s Lecture Notes in Computer Science series. The preprints of the accepted papers will be available openly.
 * Papers must not exceed 15 pages (plus unlimited references) and be in English. Annexes will be considered to count towards the page limit.
 * The review process for the In-Use track will be single anonymous (i.e., reviewers remain anonymous, while the authors’ identity is visible to the reviewers). Hence, submissions to the In-Use track should not be anonymized.
-* Submissions must be either in PDF or in HTML, formatted in the style of the Springer Publications format for **Lecture Notes in Computer Science (LNCS)**. For details on the LNCS style, see Springer’s Author Instructions. For HTML submission guidance, see [the HTML submission guide](https://iswc2026.semanticweb.org/#/guidelines/html-submission).
+* Submissions must be either in PDF or in HTML, formatted in the style of the Springer Publications format for **Lecture Notes in Computer Science (LNCS)**. For details on the LNCS style, see Springer’s Author Instructions. For HTML submission guidance, see [the HTML submission guide](/guidelines/html-submission/).
 * Authors will have the opportunity to submit a rebuttal to the reviews to clarify questions posed by program committee members.
 * At least one author per contribution must register for the conference for an in-person presentation.
 * Submission is done through [EasyChair](https://easychair.org/conferences/?conf=eswc2027). When logging in, select the appropriate track.
