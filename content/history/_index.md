@@ -7,7 +7,7 @@ From 2005 through to 2008, the conference has grown in stature and quality, visi
 
 In 2010, ESWC was renamed the *Extended Semantic Web Conference* to reflect its broader scope and international character. In 2026, stewardship of the conference passed from STI International to the [Semantic Web Science Association (SWSA)](https://swsa.semanticweb.org/conferences/). The conference also returned to its original name, the *European Semantic Web Conference*, reaffirming its European identity alongside its sister event, the *International Semantic Web Conference (ISWC)*.
 
-The ESWC conference series rule document can be downloaded here: [Rules of ESWC](https://eswc-conferences.org).
+The ESWC conference series rule document can be downloaded here: [Rules of ESWC](https://eswc-conferences.org/rules.html).
 
 ---
 
