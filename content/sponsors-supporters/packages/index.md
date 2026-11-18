@@ -169,7 +169,7 @@ Award and event sponsorship is **available as an addition** to **Silver packages
 
 **Available Awards**:
 - Best research paper
-- Best research student paper
+- Best student research paper
 - Best in-use paper
 - Best resource paper
 - Best doctoral consortium paper
