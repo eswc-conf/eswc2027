@@ -48,7 +48,7 @@ Submissions are solicited in the following domains of interest:
 - Internet of things;
 - Information retrieval;
 - Data dynamics, streaming data, and mobile platforms;
--Science and research data management.
+- Science and research data management.
 
 **Human and Social Aspects**
 -  Social and human aspects of the Semantic Web;
