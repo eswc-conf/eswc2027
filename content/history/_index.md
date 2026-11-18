@@ -62,7 +62,7 @@ The ESWC conference series rule document can be downloaded here: [Rules of ESWC]
 - **Program Chairs:** Marko Grobelnik, Elena Simperl
 
 ### [9th Extended Semantic Web Conference (ESWC2012)](https://2012.eswc-conferences.org)
-- **Date:** May 27 – June 31, 2012
+- **Date:** May 27 – May 31, 2012
 - **Location:** Heraklion, Greece
 - **General Chair:** Elena Simperl
 - **Program Chairs:** Philipp Cimiano, Axel Polleres
