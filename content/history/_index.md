@@ -44,7 +44,7 @@ The ESWC conference series rule document can be downloaded here: [Rules of ESWC]
 - **Program Chairs:** Sean Bechhofer, Manolis Koubarakis
 
 ### [6th European Semantic Web Conference (ESWC2009)](https://2009.eswc-conferences.org/)
-- **Date:** May 5 – June 1, 2009
+- **Date:** May 31 – June 4, 2009
 - **Location:** Heraklion, Greece
 - **General Chair:** Fabio Ciravegna
 - **Program Chairs:** Lora Aroyo, Paolo Traverso
