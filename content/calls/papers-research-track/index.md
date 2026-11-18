@@ -59,7 +59,7 @@ Submissions are solicited in the following domains of interest:
 ## Positioning and delineations
 - **Other tracks**: We strongly recommend that prospective authors carefully check the calls of the other main tracks of the conference in order to identify the optimal track for their submission. Papers that propose new algorithms and architectures should continue to be submitted to the regular research track;
 - Papers that reuse and apply state-of-the-art semantic technology or resources in practical settings should be submitted to the in-use track (i.e., the novelty falls into the in-use application of the semantic technology or resource);
-- Authors who want to present an interesting industry application but who do not want to submit a full paper should submit to the industry track;.
+- Authors who want to present an interesting industry application but who do not want to submit a full paper should submit to the industry track;
 - Papers describing concrete resources (datasets, ontologies, vocabularies, annotated corpora, workflows, knowledge graphs, evaluation benchmarks, etc.) should be submitted to the resources track.
 
 Note that research, in-use and resource papers are published within the same proceedings by Springer’s Lecture Notes in Computer Science series.
